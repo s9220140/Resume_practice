@@ -14,7 +14,7 @@
 
 /* header */
 header {
-    background-image: url(/images/img-headerShape.png);
+    background-image: url(../images/img-headerShape.png);
     min-height: 399px;
     display: flex;
     justify-content: center;
